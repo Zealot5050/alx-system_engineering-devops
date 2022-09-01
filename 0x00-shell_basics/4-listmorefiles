@@ -1,5 +1,2 @@
-!#bin/bash
-ls -la >> 4-listmorefiles
-echo ls -la >> 4-listmorefiles
-echo ls -la
+#!/bin/bash
 ls -la
